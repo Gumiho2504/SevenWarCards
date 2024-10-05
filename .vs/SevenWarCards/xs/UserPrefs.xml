@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D3E16724-E4F0-D702-23BB-0B56B03276B4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CardGame/Script/SimpleCardGame.cs">
+    <Files>
+      <File FileName="Assets/CardGame/Script/SimpleCardGame.cs" Line="158" Column="6" />
+      <File FileName="Assets/CardGame/Script/GameCard.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
